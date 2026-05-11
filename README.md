@@ -6,7 +6,9 @@
 
 Full-stack JavaScript engineer with frontend depth.
 
-I build practical web applications, browser extensions, AI tooling, automation scripts, and Web3 research projects with TypeScript, React, Angular, Node.js, PostgreSQL/Supabase, Chrome Extensions, MCP, and AI APIs.
+Most of my repos are me turning things I actually need into working tools: a cleaner way to feed web pages to LLMs, a code-search layer for coding agents, browser extensions that remove repeated friction, and crypto research scripts I can inspect instead of just talk about.
+
+I care about the parts that make a project trustworthy after the first demo: readable UI, small release checks, fixtures for annoying edge cases, docs that match behavior, and code I can come back to without hating past-me.
 
 <p>
   <a href="https://hamza.my.id"><img alt="Website" src="https://img.shields.io/badge/website-hamza.my.id-0f172a?style=flat-square"></a>
@@ -14,13 +16,13 @@ I build practical web applications, browser extensions, AI tooling, automation s
   <a href="mailto:contactgraftcode@gmail.com"><img alt="Email" src="https://img.shields.io/badge/email-contact-334155?style=flat-square"></a>
 </p>
 
-## What I Am Building
+## What I Am Working On
 
-- Agent-safe code retrieval and MCP tooling through [Satori](https://github.com/ham-zax/satori)
-- Web-to-Markdown capture and AI cleanup workflows through [PromptReady](https://github.com/ham-zax/promptready_extension)
-- Local-first browser tooling like [AI Studio Prompt Library](https://github.com/ham-zax/ai-studio-prompt-library)
-- Quant/Web3 research tooling through [tradingview_ratio](https://github.com/ham-zax/tradingview_ratio)
-- A writing-first personal site at [hamza.my.id](https://hamza.my.id)
+- [Satori](https://github.com/ham-zax/satori), a code-search and MCP workflow tool for coding agents that need better repo evidence before editing.
+- [PromptReady](https://github.com/ham-zax/promptready_extension), a Chrome/Chromium extension for turning messy pages into clean Markdown and JSON.
+- [AI Studio Prompt Library](https://github.com/ham-zax/ai-studio-prompt-library), a local-first extension for reusable AI Studio prompts.
+- [tradingview_ratio](https://github.com/ham-zax/tradingview_ratio), a research-to-code crypto project around quantitative signals and portfolio checks.
+- [hamza.my.id](https://hamza.my.id), my writing-first portfolio for project notes, retrospectives, and technical notes.
 
 ## Selected Work
 
@@ -35,13 +37,18 @@ I build practical web applications, browser extensions, AI tooling, automation s
 ## Engineering Range
 
 ```txt
-Frontend        React, Angular, Astro, Tailwind CSS, UI systems
-Backend         Node.js, APIs, PostgreSQL, Supabase, auth flows
-AI tooling      OpenRouter, prompt workflows, agent-facing retrieval, MCP
-Automation      Puppeteer, content migration scripts, local developer tools
-Web3            DeFi interfaces, crypto research tooling, signal experiments
-Quality         Tests, fixtures, release checks, docs, regression-focused fixes
+Frontend      React, Angular, Astro, Tailwind CSS, UI systems
+Backend       Node.js, APIs, PostgreSQL, Supabase, auth flows
+AI tooling    OpenRouter, prompt workflows, agent-facing retrieval, MCP
+Automation    Puppeteer, content migration scripts, local developer tools
+Web3          DeFi interfaces, crypto research tooling, signal experiments
+Quality       Tests, fixtures, release checks, docs, regression-focused fixes
 ```
+
+## Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ## GitHub Activity
 
@@ -70,9 +77,9 @@ These cards are generated from my public GitHub activity by this profile reposit
 ## Current Focus
 
 - Deepening backend/database fundamentals with Node.js and PostgreSQL
-- Building production-style full-stack projects with clear technical writeups
 - Shipping small, useful AI and automation tools instead of demo-only experiments
-- Turning research papers and protocol ideas into working code
+- Turning research papers and protocol ideas into working code I can test
+- Writing up the tradeoffs and mistakes behind the projects, not just the finished features
 
 ## Writing
 
