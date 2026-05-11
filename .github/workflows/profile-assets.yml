@@ -1,8 +1,6 @@
 name: Generate profile assets
 
 on:
-  push:
-    branches: [main]
   schedule:
     - cron: "18 2 * * *"
   workflow_dispatch:
