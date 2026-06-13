@@ -48,7 +48,7 @@ Quality       Tests, fixtures, release checks, docs, regression-focused fixes
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/ham-zax/satori/pull/1) in [ham-zax/satori](https://github.com/ham-zax/satori)
+1. ❗ Opened issue [#2247](https://github.com/affaan-m/ECC/issues/2247) in [affaan-m/ECC](https://github.com/affaan-m/ECC)
 2. 💪 Opened PR [#1](https://github.com/ham-zax/satori/pull/1) in [ham-zax/satori](https://github.com/ham-zax/satori)
 <!--END_SECTION:activity-->
 
