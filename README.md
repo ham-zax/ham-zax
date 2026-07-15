@@ -48,8 +48,8 @@ Quality       Tests, fixtures, release checks, docs, regression-focused fixes
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/ham-zax/satori/pull/2) in [ham-zax/satori](https://github.com/ham-zax/satori)
-2. 💪 Opened PR [#2](https://github.com/ham-zax/satori/pull/2) in [ham-zax/satori](https://github.com/ham-zax/satori)
+1. 🗣 Commented on [#32714](https://github.com/openai/codex/issues/32714#issuecomment-4970680606) in [openai/codex](https://github.com/openai/codex)
+2. 🎉 Merged PR [#2](https://github.com/ham-zax/satori/pull/2) in [ham-zax/satori](https://github.com/ham-zax/satori)
 <!--END_SECTION:activity-->
 
 ## GitHub Activity
