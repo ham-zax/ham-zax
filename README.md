@@ -48,8 +48,8 @@ Quality       Tests, fixtures, release checks, docs, regression-focused fixes
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Reopened PR [#3](https://github.com/ham-zax/satori/pull/3) in [ham-zax/satori](https://github.com/ham-zax/satori)
-2. ❌ Closed PR [#3](https://github.com/ham-zax/satori/pull/3) in [ham-zax/satori](https://github.com/ham-zax/satori)
+1. 💪 Opened PR [#4](https://github.com/ham-zax/satori/pull/4) in [ham-zax/satori](https://github.com/ham-zax/satori)
+2. 🎉 Merged PR [#3](https://github.com/ham-zax/satori/pull/3) in [ham-zax/satori](https://github.com/ham-zax/satori)
 <!--END_SECTION:activity-->
 
 ## GitHub Activity
