@@ -48,7 +48,7 @@ Quality       Tests, fixtures, release checks, docs, regression-focused fixes
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#5](https://github.com/ham-zax/satori/pull/5) in [ham-zax/satori](https://github.com/ham-zax/satori)
+1. 🚀 Published release [JevShelf v0.2.0 — clean migration](https://github.com/ham-zax/jevshelf/releases/tag/v0.2.0) in [ham-zax/jevshelf](https://github.com/ham-zax/jevshelf)
 2. 🗣 Commented on [#5](https://github.com/ham-zax/satori/pull/5#issuecomment-5892565134) in [ham-zax/satori](https://github.com/ham-zax/satori)
 <!--END_SECTION:activity-->
 
