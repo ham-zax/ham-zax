@@ -48,8 +48,8 @@ Quality       Tests, fixtures, release checks, docs, regression-focused fixes
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#21936](https://github.com/pingdotgg/t3code/issues/21936) in [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
-2. 🗣 Commented on [#5](https://github.com/ham-zax/satori/pull/5#issuecomment-5892565134) in [ham-zax/satori](https://github.com/ham-zax/satori)
+1. 🗣 Commented on [#24549](https://github.com/pingdotgg/t3code/issues/24549#issuecomment-6389800522) in [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
+2. 💪 Opened PR [#24550](https://github.com/pingdotgg/t3code/pull/24550) in [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
 <!--END_SECTION:activity-->
 
 ## GitHub Activity
