@@ -48,8 +48,8 @@ Quality       Tests, fixtures, release checks, docs, regression-focused fixes
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#24549](https://github.com/pingdotgg/t3code/issues/24549#issuecomment-6389800522) in [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
-2. 💪 Opened PR [#24550](https://github.com/pingdotgg/t3code/pull/24550) in [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
+1. ❗ Opened issue [#26830](https://github.com/pingdotgg/t3code/issues/26830) in [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
+2. 🗣 Commented on [#24549](https://github.com/pingdotgg/t3code/issues/24549#issuecomment-6389800522) in [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
 <!--END_SECTION:activity-->
 
 ## GitHub Activity
